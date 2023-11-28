@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Nursat
+- 💻 .NET C# developer primarily on the asp.net framework
+- 📫 How to reach me makhsotnursat00@gmail.com
