@@ -1,3 +1,3 @@
-- Hi there, I'm Nursat Makhsot! 👋
+- Hi there, I'm Nursat Makhsot! 🚀
 
 
