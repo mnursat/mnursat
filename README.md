@@ -4,10 +4,10 @@
 
 ## 🔧 Технологии и Инструменты
 
-- **Языки программирования:** C#, .NET, , SQL, Vite, JavaScript, TypeScript, HTML, CSS, 
+- **Языки программирования:** .NET C#, JavaScript, TypeScript
 - **Фреймворки и Библиотеки:** ASP.NET Core, EF Core, Web API, React, Bootstrap, Tailwind
 - **Базы данных:** SQL Server, PostgreSQL, SQLite
-- **Инструменты:** Visual Studio, Visual Studio Code, Git
+- **Инструменты:** Visual Studio, Visual Studio Code, Git, Vite
 
 ## 🌱 В настоящее время изучаю
 
