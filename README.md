@@ -1,25 +1,25 @@
-# Привет, меня зовут Нурсат! 👋
+# Hi, I'm a .NET developer!
 
-Я .NET разработчик
+# My name is Nursat! 👋
 
-## 🔧 Технологии и Инструменты
+## 🔧 Technologies and Tools
 
-- **Языки программирования:** .NET C#, JavaScript, TypeScript
-- **Фреймворки и Библиотеки:** ASP.NET Core, EF Core, Web API, React, Bootstrap, Tailwind
-- **Базы данных:** SQL Server, PostgreSQL, SQLite
-- **Инструменты:** Visual Studio, Visual Studio Code, Git, Vite
+- **Programming languages:** .NET C#, JavaScript, TypeScript
+- **Frameworks and Libraries:** ASP.NET Core, EF Core, Web API, React, Bootstrap, Tailwind
+- **Databases:** SQL Server, PostgreSQL, SQLite
+- **Tools:** Visual Studio, Visual Studio Code, Git, Vite
 
-## 🌱 В настоящее время изучаю
+## 🌱 Currently studying
 
-- Улучшении моего понимания архитектуры микросервисов и написании более гибкого кода
-- Изучении SOLID, Clean Architecture, DDD
-- Frontend технологии
+- Better understanding of microservices architecture and writing more flexible code
+- A better understanding of microservices architecture and flexible code.
+- Frontend technologies
 
-## 💼 Опыт работы
+## 💼 Work Experience
 
-- **[A--pro Studio]** - [.NET Разработчик] (Сен 2023 - По настоящее время)
-  - Разработка веб-приложений
+- **[A--pro Studio]** - [.NET Developer] (Sep 2023 - June 2024)
+  - Writing web apps on .net using mvc pattern and some case maybe implement with api
 
-## 📫 Для связи со мной
+## 📫 Contact me
 
 - Email: nursatmakhsot@gmail.com
